@@ -1,8 +1,6 @@
 ### Third-Party Data Risk Assessment
 
 
-**Priyadarshini Kolwalkar**
-
 #### Executive summary
 In an era where data is the new oil, third-party vendors represent both the pipeline and the greatest source of leakage. AI-powered risk assessment isn't just technology—it's business survival. And in today's data-driven economy, more than 50% of enterprises rely on third-party data vendors for core business operations, from customer analytics to financial reporting. However, this dependency also exposes most of these organizations who cannot adequately assess or manage data to attacks and breaches. 
 
