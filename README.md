@@ -58,7 +58,8 @@ Anomaly detection for unusual vendor behavior patterns
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Link to dataset creation](https://github.com/yoda-aus/third-party-risk-capstone/blob/main/create_syn_dataset.ipynb)
+- [Link to modeling pipeline](https://github.com/yoda-aus/third-party-risk-capstone/blob/main/risk_modeling_pipeline.ipynb)
 
 
 
