@@ -28,13 +28,16 @@ This project has used synthetic dataset generation due to the properiteray natur
 
 #### Results
 Classification Models (Risk Level Prediction)
-Model                Accuracy    Cross-Validation      Best Use Case
-Random Forest         87%         86.2% ± 2.1%           Primary recommendation
-Logistic Regression   84%         83.7% ± 1.8%           Baseline/interpretable model
+| Model |  Accuracy | Cross-Validation    | Best Use Case|
+| --- | --- |--- |--- |
+| Random Forest       | 87%   |  86.2% ± 2.1%    |   Primary recommendation |
+| Logistic Regression      | 84%    |  83.7% ± 1.8%     |  Baseline/interpretable model|
 
 Regression Model (Continuous Risk Score)
-Model              R² Score     MSE       Cross-Validation MSE
-Gradient Boosting  0.82         12.4       12.4 ± 2.3
+| Model |  R² Score  | MSE  | Cross-Validation MSE |
+| --- | --- |--- |--- |
+| Gradient Boosting    |  0.82   | 12.4   |  12.4 ± 2.3 |
+
 
 Top Risk Predictors (Feature Importance)
 GDPR Compliance Score (23% importance) - Most critical factor
